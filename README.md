@@ -12,7 +12,7 @@ Para editar este repositório no MakeCode.
 #### Metadados (usados para pesquisa, renderização)
 
 * for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("https://makecode.microbit.org", "profgstv/microbit-carrinho-de-controle-analogico-com-eixo");</script>
 
 ## Licença de Uso
 
