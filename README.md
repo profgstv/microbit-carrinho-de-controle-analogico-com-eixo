@@ -1,10 +1,14 @@
 
 > Abrir essa página em [https://profgstv.github.io/microbit-carrinho-de-controle-analogico-com-eixo/](https://profgstv.github.io/microbit-carrinho-de-controle-analogico-com-eixo/)
 
-## Editar este projeto
+## Editar este projeto no MakeCode
 
-Para editar este repositório no MakeCode.
+Para visualizar e editar este repositório:
 
+* abrir o projeto diretamente no [MakeCode](https://makecode.microbit.org/S44171-23151-48335-08210).
+
+  OU
+  
 * abrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * clique em **Importar** e depois clique em **Importar URL**
 * cole **https://github.com/profgstv/microbit-carrinho-de-controle-analogico-com-eixo** e clique em importar
