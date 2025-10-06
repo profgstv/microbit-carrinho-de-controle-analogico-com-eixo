@@ -1,5 +1,8 @@
-
 > Abrir essa página em [https://profgstv.github.io/microbit-carrinho-de-controle-analogico-com-eixo/](https://profgstv.github.io/microbit-carrinho-de-controle-analogico-com-eixo/)
+
+## Protótipos sugeridos para o Projeto
+
+* [Tinkercad](https://www.tinkercad.com/things/6tjgtFD3odC-carrinho-de-material-nao-estruturado-com-eixo)
 
 ## Editar este projeto no MakeCode
 
@@ -12,6 +15,8 @@ Para visualizar e editar este repositório:
 * abrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * clique em **Importar** e depois clique em **Importar URL**
 * cole **https://github.com/profgstv/microbit-carrinho-de-controle-analogico-com-eixo** e clique em importar
+
+### [Repositório no GitHub](https://github.com/profgstv/microbit-carrinho-de-controle-analogico-com-eixo/)
 
 ## Licença de Uso
 
